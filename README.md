@@ -1,4 +1,3 @@
-<img align="right" height="660px" src="https://raw.githubusercontent.com/gist/vinicius024/3ae18ec6fcb0eeebfecf15667f74593d/raw/d03f4f2569a2536de1181854a5012f81bb5e5627/githubcard.svg"/>
 
 <h1>Olá, Me chamo Vinicius D. Freitas</h1>
 
