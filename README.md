@@ -1,13 +1,11 @@
 
-<h1>Olá, Me chamo Vinicius D. Freitas</h1>
+<h1>Me chamo Vinicius de Freitas e Silva</h1>
 
 
 <br></br>
 
-- 🔰 Desenvolvedor Front-end e UX/UI Design
-- 🌑 Apaixonado por solucionar novos enigmas e desafios
-- 📪 Contate - me: viniciusfreitassilva024@gmail.com
-
+- 🔰 Desenvolvedor Full-stack e UX/UI Designer
+- 📪 Contate - me: viniciusfreitassilva2030@gmail.com
 
 <br></br>
 
