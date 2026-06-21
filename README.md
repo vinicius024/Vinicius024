@@ -80,9 +80,9 @@ Já atuei em projetos envolvendo:
 
 <div align="left">
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius024&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius024&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
