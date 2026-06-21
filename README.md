@@ -91,8 +91,8 @@ Já atuei em projetos envolvendo:
 ## Contato
 
 📧 E-mail: **viniciusfreitassilva2030@gmail.com**  
-💼 LinkedIn: [**coloque-seu-link-aqui** ](https://www.linkedin.com/in/vinicius024/) 
-🌐 Portfólio: **coloque-seu-link-aqui**
+💼 LinkedIn: [**LinkedIn** ](https://www.linkedin.com/in/vinicius024/) 
+🌐 Portfólio: **Em Breve**
 
 ---
 
